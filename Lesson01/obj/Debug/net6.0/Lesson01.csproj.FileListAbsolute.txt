@@ -1,0 +1,15 @@
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\bin\Debug\net6.0\Lesson01.exe
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\bin\Debug\net6.0\Lesson01.deps.json
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\bin\Debug\net6.0\Lesson01.runtimeconfig.json
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\bin\Debug\net6.0\Lesson01.dll
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\bin\Debug\net6.0\Lesson01.pdb
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.csproj.AssemblyReference.cache
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.AssemblyInfoInputs.cache
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.AssemblyInfo.cs
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.csproj.CoreCompileInputs.cache
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.dll
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\refint\Lesson01.dll
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.pdb
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\Lesson01.genruntimeconfig.cache
+C:\Beetroot_C#\Lesson_01\Lesson01\Lesson01\obj\Debug\net6.0\ref\Lesson01.dll
